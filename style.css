@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FFFF;
+}
+
+.container{
+    border-radius: 15px;
+    padding: 20px 10px 20px 10px;
+}
+
+input{
+    margin-right: 0px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px;
+    border: none;
+    background-color: #FFFF;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    width: 40px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    color:#f4f4f4;
+}
+
+.opartionBtn{
+    background-color: #ee964b;
+}
+
+.spacil_Two_Opartion{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%)
+}
